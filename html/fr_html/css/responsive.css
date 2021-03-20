@@ -1,0 +1,159 @@
+@media screen and (max-width: 1366px){
+
+    .homefour-img{
+        width: 55%;
+    }
+}
+@media screen and (max-width: 1200px){
+    .topmenu{
+        padding: 10px 20px;
+    }
+    .homefour-img{
+        width: 86%;
+    }
+}
+@media screen and (max-width: 992px){
+	.topmenu{
+        padding: 10px 20px;
+    }
+    .homefour-img{
+        width: 90%;
+    }
+
+    .homefifth{
+        padding: 20px 20px;
+    }
+    .homesix-hold{
+        padding:20px 20px;
+    }
+    .homeseven{
+        padding: 20px 20px;
+    }
+    .home-footer{
+        padding: 20px 20px;
+    }
+
+}
+
+@media screen and (max-width: 768px){
+    .topmenu .navbar .navbar-brand{
+        width: 60%;
+        display: inline-block;
+    }
+    .topmenu .navbar .navbar-brand img{
+        width: 100%;
+        display: inline-block;
+        height: initial;
+    }
+    
+    .top-nav{
+        display: none;
+    }
+    .carousel-caption{
+        margin-bottom: 5%;
+    }
+    .carousel-control-prev {
+     width: 5%;
+    }
+    .carousel-control-next {
+        width: 5%;
+       }
+       .homethird{
+        padding: 20px 20px;
+    }
+    .homefour{
+        padding: 20px 20px;
+    }
+    .homefour-img{
+        width: 90%;
+        height: calc(100% + 20px);
+    }
+    .about-cont{
+        padding: 20px 20px;
+    }
+    .text-cont h1{
+        font-size: 24px;
+    }
+    .text-cont{
+        margin-bottom: 15px;
+    }
+    .text-font-two{
+        padding:50px 70px;
+    }
+    .text-font-two h1{
+        font-size: 24px;
+    }
+    .text-font-two{
+        margin-bottom: 15px;
+    }
+    .comonaccordian{
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .faq-cont{
+        padding: 20px 20px;
+    }
+    .faq-cont h1{
+        font-size: 24px;
+    }
+    .contact-cont{
+        padding:20px 20px;
+    }
+    .contact-cont h2{
+        font-size: 24px;
+    }
+    .clients-cont h1{
+        font-size: 24px;
+    }
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 576px){
+	
+    .carousel-caption{
+        margin-bottom: 0%;
+        padding: 5px;
+    }
+    .carousel-caption p{
+        font-size: 14px;
+    }
+    .carousel-caption h5{
+        font-size: 22px;
+    }
+    .carousel-indicators{
+        display: none;
+    }
+    .carousel-caption {
+        right: 8%;
+        left: 8%;
+    }
+    .homefour-img{
+        width: 100%;
+       position: static;
+    }
+    .homefour-img img{
+        width: 70%;
+       position: static;
+       margin-bottom: 20px;
+    }
+    .contact-address h3 {
+        font-size: 24px;
+    }
+    .paymentdetails{
+        margin-top: 30px;
+    }
+    .paymentdetails h3 {
+        font-size: 24px;
+    }
+    .clients-cont{
+        padding:20px 20px;
+    }
+    
+}
